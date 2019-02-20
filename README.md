@@ -7,4 +7,7 @@ bug1：
 开发工具生成的html页面元素有的没有终止符/,thymeleaf模板引擎默认是Template modes:HTML5解析的，解析比较严格。
 
 需要手动添加/或指定引入的thymeleaf版本号
+html和html5不同：
+<meta charset="utf-8" >
+<meta charset="utf-8" />
 
