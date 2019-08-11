@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.appleyk</groupId>
-    <artifactId>springbootmybatis</artifactId>
+    <groupId>com.zwall</groupId>
+    <artifactId>boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>springbootmybatis</name>
+    <name>boot</name>
     <description>Spring Boot 框架 + Mybatis的通用Mapper+ 实现单表的增删改查+批量操作</description>
 
     <parent>
